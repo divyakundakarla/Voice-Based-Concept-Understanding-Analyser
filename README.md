@@ -1,3 +1,4 @@
+HEAD
 # 🎙️ VBCUA — Voice-Based Concept Understanding Analyser
 
 An AI-powered Streamlit web application that evaluates how well a user understands a technical concept by analyzing their **spoken explanation**. It combines speech-to-text, semantic similarity, speech fluency analysis, audio signal processing, AI scoring, and automatic PDF report generation.
@@ -178,3 +179,7 @@ Overall Score = (Semantic Similarity × 50%)
 ## 📄 License
 
 This project is provided as an academic/portfolio deliverable. Free to use and modify.
+=======
+# Voice-Based-Concept-Understanding-Analyser
+AI-powered web application that evaluates students' conceptual understanding through speech analysis and semantic similarity.
+>>>>>>> a4ed48ff69cf843b6d95df748c7ba30bc7c8f2f6
