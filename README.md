@@ -73,6 +73,27 @@ VBCUA/
 
 ---
 
+
+## 📂 SmartBridge Project Documentation Structure
+
+1. Brainstorming & Ideation
+
+2. Requirement Analysis
+
+3. Project Design Phase
+
+4. Project Planning Phase
+
+5. Project Development Phase
+
+6. Project Testing
+
+7. Project Documentation
+
+8. Project Demonstration
+
+All project deliverables and documentation files are organized according to the AI-ML and GEN-AI Track submission guidelines.
+
 ## 🚀 Installation & Setup
 
 ### 1. Clone or extract the project
@@ -176,10 +197,23 @@ Overall Score = (Semantic Similarity × 50%)
 
 ---
 
+## 👥 Team Details
+
+Team ID: XXXXX
+
+Project Title:
+Voice-Based Concept Understanding Analyser (VBCUA)
+
+Team Lead:
+Divya Kundakarla
+
+Developed as part of AI-ML and GEN-AI Track.
+
+
 ## 📄 License
 
-This project is provided as an academic/portfolio deliverable. Free to use and modify.
+This project is developed for academic learning and project demonstration purposes.
 =======
 # Voice-Based-Concept-Understanding-Analyser
 AI-powered web application that evaluates students' conceptual understanding through speech analysis and semantic similarity.
->>>>>>> a4ed48ff69cf843b6d95df748c7ba30bc7c8f2f6
+>>>>>>> 
