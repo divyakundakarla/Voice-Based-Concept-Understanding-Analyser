@@ -19,7 +19,6 @@ def load_whisper_model(model_size: str = "base"):
         st.error("openai-whisper is not installed. Run: pip install openai-whisper")
         return None
 
-
 def transcribe_audio(audio_path: str, model_size: str = "base") -> dict:
     """
     Transcribe audio file using Whisper.
